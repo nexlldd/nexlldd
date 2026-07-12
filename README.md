@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SneakingTom
-- 👀 I’m interested in Java,C,C++,and Python.
-- 🌱 I’m currently learning a Game Engine.
+- 👀 I’m interested in Software Development and Web Backend Development.
+- 🌱 I’m currently learning C++.
 - 📫 How to reach me: My Twitter you can message me @TheSneakingTom or my gmail sneakingtom@gmail.com
 
 <!---
