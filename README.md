@@ -3,9 +3,9 @@
 
 ![](https://github.com/nexlldd/nexlldd/blob/main/test.gif)
 
-- 🔭 I’m currently working on [Flashcards]
+- 🔭 I’m currently working on [SFML]
 
-- 🆕 Latest work [[SafePassAnt]](https://github.com/nexlldd/SafePassAnt)
+- 🆕 Latest work [[simple-flashcards]](https://github.com/nexlldd/simple-flashcards)
 
 - 🌱 I’m currently learning **C++**
 
